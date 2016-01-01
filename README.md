@@ -10,4 +10,4 @@ This was a lofty goal and required as much effort to build the tooling as it did
 
 Trackable Entities needs to respond to these changes, and it provides an opportunity to sit back and ponder lessons learned from what we've done so far and do some things differently this time around.
 
-To launch the discussion of **TrackableEntities.Express**, I'll create a Wiki on this Home repo, where I'll lay out a roadmap and some design goals.  Please jump in a contribute your ideas and suggestions!
+To launch the discussion of **TrackableEntities.Express**, I created a [Wiki](../../wiki) on this Home repo, where I wrote [design goals](../../wiki/Design-Goals) document with links to [issues](../../issues) where we can discuss various ideas.  Please jump in a contribute your ideas and suggestions!
